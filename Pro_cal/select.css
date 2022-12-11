@@ -1,0 +1,72 @@
+.select{
+    font-size: 20px;
+}
+
+button {
+    font-size: 20px;
+    font-family: 'Comic Sans MS';
+    margin: 0px;
+    color: white;
+    border: 0px;
+    transition: 0.5s;
+}
+
+button:hover {
+    background-color: white;
+}
+
+.select-1 {
+    background-color: #7eef6d;
+}
+
+.select-1:hover {
+    color: #7eef6d;
+}
+
+.select-2 {
+    background-color: #ffe65d;
+}
+
+.select-2:hover {
+    color: #ffe65d;
+}
+
+.select-3 {
+    background-color: #4d52e3;
+}
+
+.select-3:hover {
+    color: #4d52e3;
+}
+
+.select-4 {
+    background-color: #861fde;
+}
+
+.select-4:hover {
+    color: #861fde;
+}
+
+.select-5 {
+    background-color: #de1f1f;
+}
+
+.select-5:hover {
+    color: #de1f1f;
+}
+
+.select-6 {
+    background-color: #1fdbde;
+}
+
+.select-6:hover {
+    color: #1fdbde;
+}
+
+.select-7 {
+    background-color: #444444;
+}
+
+.select-7:hover {
+    color: #444444;
+}

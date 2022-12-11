@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+header{
+    font-size:50px;
+    font-family: 微软雅黑;
+    text-align: center;
+    background-color: cornflowerblue;
+    padding: 5px;
+    color:white;
+}
+main{
+    margin: 20px;
+    background-color: rgb(252,252,252);
+}
+footer{
+    padding:10px;
+    background-color: black;
+    color:white;
+    text-align: center;
+}

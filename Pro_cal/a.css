@@ -1,0 +1,7 @@
+a.auther{
+    color:rgba(255,255,255,.75);
+    transition: 0.5s;
+}
+a.auther:hover{
+    color:white;
+}
