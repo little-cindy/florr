@@ -2,7 +2,7 @@
     font-size: 20px;
 }
 
-button {
+button{
     font-size: 20px;
     font-family: 'Comic Sans MS';
     margin: 0px;
@@ -11,62 +11,96 @@ button {
     transition: 0.5s;
 }
 
-button:hover {
+.line1[isselected ="false"]{
+    color: white;
+}
+
+.line1[isselected ="true"] {
     background-color: white;
 }
 
-.select-1 {
+.line2[isselected ="false"]{
+    color: white;
+}
+
+.line2[isselected ="true"] {
+    background-color: white;
+}
+
+.line3[isselected ="false"]{
+    color: white;
+}
+
+.line3[isselected ="true"] {
+    background-color: white;
+}
+
+.finish {
+    background-color: red;
+}
+
+.finish:hover {
+    color: red;
+    background-color: white;
+}
+
+.select-1[isselected ="false"] {
     background-color: #7eef6d;
 }
 
-.select-1:hover {
+.select-1[isselected ="true"] {
     color: #7eef6d;
 }
 
-.select-2 {
+.select-2[isselected ="false"] {
     background-color: #ffe65d;
 }
 
-.select-2:hover {
+.select-2[isselected ="true"] {
     color: #ffe65d;
 }
 
-.select-3 {
+.select-3[isselected ="false"] {
     background-color: #4d52e3;
 }
 
-.select-3:hover {
+.select-3[isselected ="true"] {
     color: #4d52e3;
 }
 
-.select-4 {
+.select-4[isselected ="false"] {
     background-color: #861fde;
 }
 
-.select-4:hover {
+.select-4[isselected ="true"] {
     color: #861fde;
 }
 
-.select-5 {
+.select-5[isselected ="false"] {
     background-color: #de1f1f;
 }
 
-.select-5:hover {
+.select-5[isselected ="true"] {
     color: #de1f1f;
 }
 
-.select-6 {
+.select-6[isselected ="false"] {
     background-color: #1fdbde;
 }
 
-.select-6:hover {
+.select-6[isselected ="true"] {
     color: #1fdbde;
 }
 
-.select-7 {
+.select-7[isselected ="false"] {
     background-color: #444444;
 }
 
-.select-7:hover {
+.select-7[isselected ="true"] {
     color: #444444;
+}
+
+input{
+    border-color: cornflowerblue;
+    border-radius: 10px;
 }

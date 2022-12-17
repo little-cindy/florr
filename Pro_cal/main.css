@@ -2,6 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
     text-align: center;
+    background-color: rgb(252,252,252);
 }
 header{
     font-size:50px;
@@ -13,9 +14,11 @@ header{
 }
 main{
     margin: 20px;
-    background-color: rgb(252,252,252);
 }
 footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
     padding:10px;
     background-color: black;
     color:white;
